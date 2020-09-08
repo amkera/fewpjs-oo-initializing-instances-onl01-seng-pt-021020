@@ -1,20 +1,21 @@
 // Write your code here
 class Breakfast {
-  constructor(name) {
+  constructor(food, drink) {
+    
     
   }
   
 }
 
 class Lunch {
-  constructor(name) {
+  constructor(salad, soup, drink) {
     
   }
   
 }
 
 class Dinner {
-  constructor(name) {
+  constructor(salad, soup, entree, _dessert) {
     
   }
   
